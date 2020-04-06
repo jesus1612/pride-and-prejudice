@@ -1,0 +1,9 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(127, 168, 243);
+}
+
+.Titulo {
+  font-size: 3rem;
+  text-align: center;
+};
